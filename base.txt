@@ -1,0 +1,31 @@
+Basic Terminology
+
+Chain of Thought(CoT)
+Large language models (LLMs) can perform complex reasoning by generating intermediate reasoning
+steps. Providing these steps for prompting demonstrations is called chain-of-thought (CoT) prompting.
+[ Zhang, Z., Zhang, A., Li, M., & Smola, A. (2022). Automatic chain of thought prompting in large language models. arXiv. https://arxiv.org/abs/2210.03493]
+
+
+Geo Spatial Data
+Geospatial data is information that describes objects, events or other features with a location on or near the surface of the earth. 
+[https://www.ibm.com/think/topics/geospatial-data]
+
+
+GIS 
+Geospatial information systems (GIS) relate specifically to the physical mapping of data within a visual representation.
+For example, when a hurricane map (which shows location and time) is overlaid with another layer showing potential areas for
+lightning strikes, you’re seeing GIS in action.
+[https://www.ibm.com/think/topics/geospatial-data]
+
+Types of geospatial data
+
+Geospatial data is information recorded with a geographic indicator of some type.
+There are two primary forms of geospatial data: vector data and raster data.
+
+Vector data is data in which points, lines and polygons represent features such as properties, cities,
+roads, mountains and bodies of water. For example, a visual representation that uses vector data might include houses
+represented by points, roads represented by lines and entire towns represented by polygons.
+
+Raster data is pixelated or gridded cells identified according to row and column.
+Raster data creates imagery that’s substantially more complex, such as photographs and satellite images.
+[https://www.ibm.com/think/topics/geospatial-data]
