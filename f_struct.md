@@ -50,7 +50,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install basic requirements
-pip install streamlit langchain ollama geopandas rasterio folium streamlit-folium
+pip install -r requirements.txt
 
 # Install Ollama and download model
 curl -fsSL https://ollama.ai/install.sh | sh
